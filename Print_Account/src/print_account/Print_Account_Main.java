@@ -35,4 +35,5 @@ public class Print_Account_Main {
     * Accepted: joining Mia and Luis together in code instead of writing separately.
     * Rejected: some formatting and grammar.
     * Q3: How I checked it I ran the file and check if the output matches the given expected output.
+    * I run the filed and checked that both the actual output and expected output are the same.
     */
